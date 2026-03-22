@@ -6,8 +6,8 @@ I am passionate about turning data into meaningful insights and decisions. My wo
 
 ## Highlights
 
-- **Google Summer of Code (GSoC) 2025 Selectee** — contributing to open-source at a global stage
-- **Published R Package Author** — [`grepreaper`](https://cran.r-project.org/package=grepreaper) successfully published on CRAN
+- **Google Summer of Code (GSoC) 2025 Selectee** - contributing to open-source at a global stage
+- **Published R Package Author** - [`grepreaper`](https://cran.r-project.org/package=grepreaper) successfully published on CRAN
 
 ---
 
